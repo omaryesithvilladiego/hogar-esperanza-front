@@ -13,7 +13,7 @@ function Inicio() {
             <Typography textAlign={'center'}>Somos un hogar de vida dedicada a brindar apoyo, cuidado y amor a los adultos mayores, promoviendo su bienestar físico,
 emocional y social. Nuestro objetivo es crear un entorno acogedor y seguro donde nuestros abuelos puedan vivir con dignidad,
 recibir atención personalizada y sentirse valorados y queridos. Trabajamos para mejorar su calidad de vida y hacer que cada
-día sea una oportunidad para encontrar esperanza, alegría y propósito.</Typography>
+día sea una oportunidad para encontrar esperanza, alegría y propósito.</Typography> 
             </Stack>
        </Container>
 

@@ -120,7 +120,7 @@ function Gallery() {
           </Button>
           <Grid style={{height:'100vh'}} container spacing={1}>
             {additionalImages.map((src, index) => (
-              <Grid item xs={12} sm={6} md={gridSize}  key={index}>
+              <Grid item xs={gridSize} sm={gridSize} md={gridSize}  key={index}>
                 <img {...imageProps} src={src} />
               </Grid>
             ))}
